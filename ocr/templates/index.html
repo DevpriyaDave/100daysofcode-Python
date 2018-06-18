@@ -1,0 +1,63 @@
+{% block body %}
+	<head>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.css"/>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.js"></script>
+
+<script type="text/javascript" >
+
+  $(document).ready(function() {
+  console.log($);
+    var content = [
+    { title: 'Cash Transfer' },
+    { title: 'Security Transfer' },
+    { title: 'Incoming Wires' },
+    { title: 'Ach-out' },
+    { title: 'Ach-in' },
+  ];
+
+  $('.ui.search')
+    .search({
+      searchFields: ['title'],
+      source: content
+    })
+  ;
+
+  $('.ui.button')
+    .on('click', function() {
+                var data = $('#searchText').val();
+          console.log(data)
+        $.post('/processtext', {
+            text: data,
+        }).done(function(response) {
+        console.log(response);
+
+
+      $("#response").html(response);
+
+
+        }).fail(function() {
+
+        });
+    });
+
+
+});
+</script>
+    </head>
+<body>
+<div class="ui container" style="margin-top: 200px; ">
+    <div class="ui search">
+      <input class="prompt" id="searchText" type="text" placeholder="Search transaction..." style="width: 400px;
+    margin-left: 300px;">
+      <div class="results" style="width: 400px;
+    margin-left: 300px;"></div>
+    </div>
+    <div class="ui divider"></div>
+    <div class="ui button" style="margin-left: 450;">Show results</div>
+    <div class="ui divider"></div>
+    <div id="response"></div>
+</div>
+	</body>
+{% endblock %}

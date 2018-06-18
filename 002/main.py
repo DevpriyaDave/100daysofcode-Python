@@ -8,11 +8,12 @@ def home():
     return render_template('welcome.html')
 
 
-@app.route('/login', methods=['GET'])
-def login(username, password):
+@app.route('/login', methods=['GET', 'POST'])
+def login():
     if request.method == 'POST':
+        print(request.form['username'], request.form['password'])
+    else:
         return render_template('login.html')
-    
 
 
 @app.route('/profile/<username>', methods=['GET', 'POST'])

@@ -1,0 +1,3752 @@
+{
+  "textAngle": 0.0,
+  "orientation": "NotDetected",
+  "language": "en",
+  "regions": [
+    {
+      "boundingBox": "980,116,204,21",
+      "lines": [
+        {
+          "boundingBox": "980,116,204,21",
+          "words": [
+            {
+              "boundingBox": "980,116,29,17",
+              "text": "For"
+            },
+            {
+              "boundingBox": "1018,116,71,17",
+              "text": "Internal"
+            },
+            {
+              "boundingBox": "1099,116,35,17",
+              "text": "Use"
+            },
+            {
+              "boundingBox": "1141,116,43,21",
+              "text": "Only"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "980,149,91,16",
+      "lines": [
+        {
+          "boundingBox": "980,149,91,16",
+          "words": [
+            {
+              "boundingBox": "980,149,57,16",
+              "text": "Branch"
+            },
+            {
+              "boundingBox": "1045,150,26,15",
+              "text": "No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1137,150,225,53",
+      "lines": [
+        {
+          "boundingBox": "1137,150,100,15",
+          "words": [
+            {
+              "boundingBox": "1137,150,66,15",
+              "text": "Account"
+            },
+            {
+              "boundingBox": "1210,150,27,15",
+              "text": "No."
+            }
+          ]
+        },
+        {
+          "boundingBox": "1144,185,218,18",
+          "words": [
+            {
+              "boundingBox": "1144,185,12,18",
+              "text": "0"
+            },
+            {
+              "boundingBox": "1186,185,52,18",
+              "text": "99"
+            },
+            {
+              "boundingBox": "1267,185,53,18",
+              "text": "46"
+            },
+            {
+              "boundingBox": "1350,185,12,18",
+              "text": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1416,150,101,53",
+      "lines": [
+        {
+          "boundingBox": "1416,150,101,16",
+          "words": [
+            {
+              "boundingBox": "1416,150,67,16",
+              "text": "FA/PWA"
+            },
+            {
+              "boundingBox": "1491,150,26,15",
+              "text": "NO."
+            }
+          ]
+        },
+        {
+          "boundingBox": "1423,185,94,18",
+          "words": [
+            {
+              "boundingBox": "1423,185,94,18",
+              "text": "012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "106,268,1486,260",
+      "lines": [
+        {
+          "boundingBox": "106,268,1486,23",
+          "words": [
+            {
+              "boundingBox": "106,270,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "119,269,60,16",
+              "text": "further"
+            },
+            {
+              "boundingBox": "185,268,96,17",
+              "text": "understand"
+            },
+            {
+              "boundingBox": "287,269,32,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "325,275,43,16",
+              "text": "agree"
+            },
+            {
+              "boundingBox": "374,269,39,18",
+              "text": "that,"
+            },
+            {
+              "boundingBox": "420,269,24,16",
+              "text": "ifl"
+            },
+            {
+              "boundingBox": "451,269,59,22",
+              "text": "qualify"
+            },
+            {
+              "boundingBox": "516,269,32,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "553,275,31,16",
+              "text": "any"
+            },
+            {
+              "boundingBox": "589,269,20,16",
+              "text": "of"
+            },
+            {
+              "boundingBox": "612,275,28,16",
+              "text": "my"
+            },
+            {
+              "boundingBox": "645,274,74,12",
+              "text": "accounts"
+            },
+            {
+              "boundingBox": "726,275,24,10",
+              "text": "are"
+            },
+            {
+              "boundingBox": "756,269,66,22",
+              "text": "eligible,"
+            },
+            {
+              "boundingBox": "829,270,7,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "842,275,37,16",
+              "text": "may"
+            },
+            {
+              "boundingBox": "884,269,58,16",
+              "text": "choose"
+            },
+            {
+              "boundingBox": "948,274,17,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "971,275,50,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "1028,269,31,16",
+              "text": "free"
+            },
+            {
+              "boundingBox": "1065,269,48,16",
+              "text": "credit"
+            },
+            {
+              "boundingBox": "1120,268,70,17",
+              "text": "balances"
+            },
+            {
+              "boundingBox": "1196,271,34,14",
+              "text": "into"
+            },
+            {
+              "boundingBox": "1237,275,20,10",
+              "text": "an"
+            },
+            {
+              "boundingBox": "1263,269,74,16",
+              "text": "affiliated"
+            },
+            {
+              "boundingBox": "1343,269,60,16",
+              "text": "taxable"
+            },
+            {
+              "boundingBox": "1409,275,18,10",
+              "text": "or"
+            },
+            {
+              "boundingBox": "1432,274,96,17",
+              "text": "tax-exempt"
+            },
+            {
+              "boundingBox": "1534,275,58,16",
+              "text": "money"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,295,1456,22",
+          "words": [
+            {
+              "boundingBox": "106,295,60,17",
+              "text": "market"
+            },
+            {
+              "boundingBox": "172,295,40,17",
+              "text": "fund"
+            },
+            {
+              "boundingBox": "220,296,22,19",
+              "text": "(to"
+            },
+            {
+              "boundingBox": "249,295,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "282,301,52,11",
+              "text": "extent"
+            },
+            {
+              "boundingBox": "340,295,79,20",
+              "text": "available)"
+            },
+            {
+              "boundingBox": "426,295,61,17",
+              "text": "instead"
+            },
+            {
+              "boundingBox": "493,295,19,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "515,302,9,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "530,296,53,21",
+              "text": "Sweep"
+            },
+            {
+              "boundingBox": "590,295,48,17",
+              "text": "Bank."
+            },
+            {
+              "boundingBox": "646,295,16,17",
+              "text": "If"
+            },
+            {
+              "boundingBox": "665,296,6,16",
+              "text": "I"
+            },
+            {
+              "boundingBox": "678,302,17,10",
+              "text": "so"
+            },
+            {
+              "boundingBox": "702,297,70,17",
+              "text": "instruct,"
+            },
+            {
+              "boundingBox": "780,296,67,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "854,295,62,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "922,297,12,15",
+              "text": "is"
+            },
+            {
+              "boundingBox": "940,295,95,19",
+              "text": "authorized,"
+            },
+            {
+              "boundingBox": "1042,295,68,17",
+              "text": "without"
+            },
+            {
+              "boundingBox": "1116,302,31,15",
+              "text": "any"
+            },
+            {
+              "boundingBox": "1152,295,60,17",
+              "text": "further"
+            },
+            {
+              "boundingBox": "1218,295,76,17",
+              "text": "direction"
+            },
+            {
+              "boundingBox": "1301,295,41,17",
+              "text": "from"
+            },
+            {
+              "boundingBox": "1349,302,30,12",
+              "text": "me,"
+            },
+            {
+              "boundingBox": "1386,301,17,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1410,297,49,15",
+              "text": "invest"
+            },
+            {
+              "boundingBox": "1465,302,31,15",
+              "text": "any"
+            },
+            {
+              "boundingBox": "1501,295,61,22",
+              "text": "eligible"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,321,840,23",
+          "words": [
+            {
+              "boundingBox": "106,321,31,17",
+              "text": "free"
+            },
+            {
+              "boundingBox": "143,321,49,17",
+              "text": "credit"
+            },
+            {
+              "boundingBox": "198,322,70,16",
+              "text": "balances"
+            },
+            {
+              "boundingBox": "275,324,16,14",
+              "text": "in"
+            },
+            {
+              "boundingBox": "298,328,27,15",
+              "text": "my"
+            },
+            {
+              "boundingBox": "330,327,68,11",
+              "text": "account"
+            },
+            {
+              "boundingBox": "404,323,17,15",
+              "text": "in"
+            },
+            {
+              "boundingBox": "427,322,27,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "460,321,59,17",
+              "text": "taxable"
+            },
+            {
+              "boundingBox": "525,328,18,10",
+              "text": "or"
+            },
+            {
+              "boundingBox": "549,327,26,11",
+              "text": "tax"
+            },
+            {
+              "boundingBox": "580,327,63,17",
+              "text": "exempt"
+            },
+            {
+              "boundingBox": "649,328,59,15",
+              "text": "money"
+            },
+            {
+              "boundingBox": "713,321,60,17",
+              "text": "market"
+            },
+            {
+              "boundingBox": "779,321,41,17",
+              "text": "fund"
+            },
+            {
+              "boundingBox": "826,323,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "838,321,39,17",
+              "text": "have"
+            },
+            {
+              "boundingBox": "883,321,63,17",
+              "text": "chosen."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,347,1483,23",
+          "words": [
+            {
+              "boundingBox": "106,349,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "118,348,93,16",
+              "text": "understand"
+            },
+            {
+              "boundingBox": "216,348,31,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "252,354,41,16",
+              "text": "agree"
+            },
+            {
+              "boundingBox": "299,348,33,16",
+              "text": "that"
+            },
+            {
+              "boundingBox": "336,348,14,16",
+              "text": "if"
+            },
+            {
+              "boundingBox": "353,349,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "365,348,21,16",
+              "text": "do"
+            },
+            {
+              "boundingBox": "392,353,28,11",
+              "text": "not"
+            },
+            {
+              "boundingBox": "424,348,45,16",
+              "text": "select"
+            },
+            {
+              "boundingBox": "473,354,9,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "487,348,87,22",
+              "text": "designated"
+            },
+            {
+              "boundingBox": "579,354,48,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "632,350,91,14",
+              "text": "investment"
+            },
+            {
+              "boundingBox": "728,348,31,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "764,354,26,10",
+              "text": "am"
+            },
+            {
+              "boundingBox": "795,348,78,16",
+              "text": "otherwise"
+            },
+            {
+              "boundingBox": "879,348,61,22",
+              "text": "eligible,"
+            },
+            {
+              "boundingBox": "947,348,25,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "978,348,43,16",
+              "text": "Bank"
+            },
+            {
+              "boundingBox": "1026,349,65,21",
+              "text": "Deposit"
+            },
+            {
+              "boundingBox": "1096,349,70,21",
+              "text": "Program"
+            },
+            {
+              "boundingBox": "1170,348,30,16",
+              "text": "will"
+            },
+            {
+              "boundingBox": "1206,347,19,17",
+              "text": "be"
+            },
+            {
+              "boundingBox": "1231,354,27,16",
+              "text": "my"
+            },
+            {
+              "boundingBox": "1262,348,87,22",
+              "text": "designated"
+            },
+            {
+              "boundingBox": "1354,354,48,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "1408,349,90,16",
+              "text": "investment"
+            },
+            {
+              "boundingBox": "1503,348,21,22",
+              "text": "by"
+            },
+            {
+              "boundingBox": "1528,347,61,17",
+              "text": "default."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,374,1461,22",
+          "words": [
+            {
+              "boundingBox": "106,375,6,16",
+              "text": "I"
+            },
+            {
+              "boundingBox": "118,374,57,17",
+              "text": "further"
+            },
+            {
+              "boundingBox": "180,374,105,22",
+              "text": "acknowledge"
+            },
+            {
+              "boundingBox": "291,374,31,17",
+              "text": "and"
+            },
+            {
+              "boundingBox": "327,381,41,15",
+              "text": "agree"
+            },
+            {
+              "boundingBox": "374,374,32,17",
+              "text": "that"
+            },
+            {
+              "boundingBox": "412,374,25,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "443,380,29,11",
+              "text": "rate"
+            },
+            {
+              "boundingBox": "478,374,19,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "500,380,50,11",
+              "text": "return"
+            },
+            {
+              "boundingBox": "555,381,21,10",
+              "text": "on"
+            },
+            {
+              "boundingBox": "582,374,26,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "614,374,42,17",
+              "text": "Bank"
+            },
+            {
+              "boundingBox": "662,375,64,21",
+              "text": "Deposit"
+            },
+            {
+              "boundingBox": "732,375,70,21",
+              "text": "Program"
+            },
+            {
+              "boundingBox": "807,381,36,15",
+              "text": "may"
+            },
+            {
+              "boundingBox": "847,374,19,17",
+              "text": "be"
+            },
+            {
+              "boundingBox": "872,374,52,22",
+              "text": "higher"
+            },
+            {
+              "boundingBox": "929,381,17,10",
+              "text": "or"
+            },
+            {
+              "boundingBox": "952,374,44,17",
+              "text": "lower"
+            },
+            {
+              "boundingBox": "1002,374,36,17",
+              "text": "than"
+            },
+            {
+              "boundingBox": "1044,374,25,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1075,380,30,11",
+              "text": "rate"
+            },
+            {
+              "boundingBox": "1111,374,19,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1132,380,50,11",
+              "text": "return"
+            },
+            {
+              "boundingBox": "1188,374,69,17",
+              "text": "available"
+            },
+            {
+              "boundingBox": "1263,381,21,10",
+              "text": "on"
+            },
+            {
+              "boundingBox": "1289,374,44,17",
+              "text": "other"
+            },
+            {
+              "boundingBox": "1338,374,69,17",
+              "text": "available"
+            },
+            {
+              "boundingBox": "1412,381,48,15",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "1466,376,101,15",
+              "text": "investments."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,400,1472,23",
+          "words": [
+            {
+              "boundingBox": "106,402,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "119,400,93,17",
+              "text": "understand"
+            },
+            {
+              "boundingBox": "218,401,33,16",
+              "text": "that"
+            },
+            {
+              "boundingBox": "257,407,47,12",
+              "text": "some,"
+            },
+            {
+              "boundingBox": "311,400,60,23",
+              "text": "though"
+            },
+            {
+              "boundingBox": "377,406,28,11",
+              "text": "not"
+            },
+            {
+              "boundingBox": "411,400,23,19",
+              "text": "all,"
+            },
+            {
+              "boundingBox": "440,407,49,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "496,402,98,16",
+              "text": "investments"
+            },
+            {
+              "boundingBox": "600,407,35,15",
+              "text": "may"
+            },
+            {
+              "boundingBox": "640,401,38,16",
+              "text": "have"
+            },
+            {
+              "boundingBox": "684,407,8,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "698,402,85,15",
+              "text": "minimum"
+            },
+            {
+              "boundingBox": "789,401,47,16",
+              "text": "initial"
+            },
+            {
+              "boundingBox": "842,403,93,14",
+              "text": "investment"
+            },
+            {
+              "boundingBox": "939,400,44,17",
+              "text": "value"
+            },
+            {
+              "boundingBox": "988,406,17,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1011,403,62,14",
+              "text": "activate"
+            },
+            {
+              "boundingBox": "1079,400,26,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1110,407,54,16",
+              "text": "sweep."
+            },
+            {
+              "boundingBox": "1170,402,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "1183,407,42,16",
+              "text": "agree"
+            },
+            {
+              "boundingBox": "1231,400,33,17",
+              "text": "that"
+            },
+            {
+              "boundingBox": "1269,401,67,22",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "1342,401,60,21",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "1408,407,35,15",
+              "text": "may"
+            },
+            {
+              "boundingBox": "1449,402,61,21",
+              "text": "impose"
+            },
+            {
+              "boundingBox": "1516,403,19,14",
+              "text": "its"
+            },
+            {
+              "boundingBox": "1541,407,37,10",
+              "text": "own"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,427,1467,22",
+          "words": [
+            {
+              "boundingBox": "106,429,86,15",
+              "text": "minimum"
+            },
+            {
+              "boundingBox": "198,429,95,15",
+              "text": "investment"
+            },
+            {
+              "boundingBox": "299,429,104,20",
+              "text": "requirement"
+            },
+            {
+              "boundingBox": "409,432,16,12",
+              "text": "to"
+            },
+            {
+              "boundingBox": "432,429,64,15",
+              "text": "activate"
+            },
+            {
+              "boundingBox": "502,429,58,15",
+              "text": "certain"
+            },
+            {
+              "boundingBox": "566,433,50,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "622,429,105,15",
+              "text": "investments."
+            },
+            {
+              "boundingBox": "735,428,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "748,434,43,15",
+              "text": "agree"
+            },
+            {
+              "boundingBox": "797,427,34,17",
+              "text": "that"
+            },
+            {
+              "boundingBox": "837,427,40,17",
+              "text": "until"
+            },
+            {
+              "boundingBox": "883,427,39,17",
+              "text": "such"
+            },
+            {
+              "boundingBox": "928,429,38,15",
+              "text": "time"
+            },
+            {
+              "boundingBox": "972,434,15,10",
+              "text": "as"
+            },
+            {
+              "boundingBox": "994,428,6,15",
+              "text": "I"
+            },
+            {
+              "boundingBox": "1007,432,41,12",
+              "text": "meet"
+            },
+            {
+              "boundingBox": "1054,427,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1087,429,86,15",
+              "text": "minimum"
+            },
+            {
+              "boundingBox": "1180,427,49,17",
+              "text": "initial"
+            },
+            {
+              "boundingBox": "1235,429,99,17",
+              "text": "investment,"
+            },
+            {
+              "boundingBox": "1341,427,14,16",
+              "text": "if"
+            },
+            {
+              "boundingBox": "1358,427,90,22",
+              "text": "applicable,"
+            },
+            {
+              "boundingBox": "1456,434,27,15",
+              "text": "my"
+            },
+            {
+              "boundingBox": "1488,427,31,17",
+              "text": "free"
+            },
+            {
+              "boundingBox": "1525,427,48,17",
+              "text": "credit"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,453,1483,23",
+          "words": [
+            {
+              "boundingBox": "106,453,70,17",
+              "text": "balances"
+            },
+            {
+              "boundingBox": "182,453,31,17",
+              "text": "will"
+            },
+            {
+              "boundingBox": "220,455,58,15",
+              "text": "remain"
+            },
+            {
+              "boundingBox": "285,453,92,17",
+              "text": "uninvested"
+            },
+            {
+              "boundingBox": "383,460,18,10",
+              "text": "or"
+            },
+            {
+              "boundingBox": "406,453,31,17",
+              "text": "will"
+            },
+            {
+              "boundingBox": "444,453,19,17",
+              "text": "be"
+            },
+            {
+              "boundingBox": "470,453,68,17",
+              "text": "invested"
+            },
+            {
+              "boundingBox": "545,456,16,14",
+              "text": "in"
+            },
+            {
+              "boundingBox": "568,453,26,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "600,453,59,17",
+              "text": "default"
+            },
+            {
+              "boundingBox": "665,460,50,15",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "722,455,97,15",
+              "text": "investment."
+            },
+            {
+              "boundingBox": "827,454,6,16",
+              "text": "I"
+            },
+            {
+              "boundingBox": "840,453,59,17",
+              "text": "further"
+            },
+            {
+              "boundingBox": "905,453,109,23",
+              "text": "acknowledge"
+            },
+            {
+              "boundingBox": "1021,453,33,17",
+              "text": "that"
+            },
+            {
+              "boundingBox": "1060,454,66,22",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "1132,453,61,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "1198,460,36,15",
+              "text": "may"
+            },
+            {
+              "boundingBox": "1238,453,38,17",
+              "text": "with"
+            },
+            {
+              "boundingBox": "1282,455,21,16",
+              "text": "30"
+            },
+            {
+              "boundingBox": "1309,453,36,22",
+              "text": "days"
+            },
+            {
+              "boundingBox": "1350,455,42,20",
+              "text": "prior"
+            },
+            {
+              "boundingBox": "1397,455,60,15",
+              "text": "written"
+            },
+            {
+              "boundingBox": "1463,455,51,15",
+              "text": "notice"
+            },
+            {
+              "boundingBox": "1521,454,16,19",
+              "text": "(i)"
+            },
+            {
+              "boundingBox": "1545,453,44,17",
+              "text": "make"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,480,1485,22",
+          "words": [
+            {
+              "boundingBox": "106,480,65,22",
+              "text": "changes"
+            },
+            {
+              "boundingBox": "177,485,16,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "199,480,42,16",
+              "text": "these"
+            },
+            {
+              "boundingBox": "246,486,49,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "301,485,51,14",
+              "text": "terms;"
+            },
+            {
+              "boundingBox": "359,480,22,20",
+              "text": "(ii)"
+            },
+            {
+              "boundingBox": "388,480,45,16",
+              "text": "make"
+            },
+            {
+              "boundingBox": "439,480,65,22",
+              "text": "changes"
+            },
+            {
+              "boundingBox": "510,485,16,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "532,480,26,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "564,485,46,11",
+              "text": "terms"
+            },
+            {
+              "boundingBox": "616,480,31,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "652,480,88,16",
+              "text": "conditions"
+            },
+            {
+              "boundingBox": "746,480,19,16",
+              "text": "of"
+            },
+            {
+              "boundingBox": "768,486,30,16",
+              "text": "any"
+            },
+            {
+              "boundingBox": "803,480,71,16",
+              "text": "available"
+            },
+            {
+              "boundingBox": "879,486,49,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "934,482,97,17",
+              "text": "investment;"
+            },
+            {
+              "boundingBox": "1038,480,28,20",
+              "text": "(iii)"
+            },
+            {
+              "boundingBox": "1073,480,62,22",
+              "text": "change,"
+            },
+            {
+              "boundingBox": "1142,480,31,16",
+              "text": "add"
+            },
+            {
+              "boundingBox": "1178,486,18,10",
+              "text": "or"
+            },
+            {
+              "boundingBox": "1201,480,49,16",
+              "text": "delete"
+            },
+            {
+              "boundingBox": "1255,480,26,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1287,480,72,22",
+              "text": "products"
+            },
+            {
+              "boundingBox": "1365,480,71,16",
+              "text": "available"
+            },
+            {
+              "boundingBox": "1442,486,15,10",
+              "text": "as"
+            },
+            {
+              "boundingBox": "1463,486,8,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "1477,486,48,16",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "1532,482,59,20",
+              "text": "cption;"
+            }
+          ]
+        },
+        {
+          "boundingBox": "107,506,584,22",
+          "words": [
+            {
+              "boundingBox": "107,506,26,20",
+              "text": "(iv)"
+            },
+            {
+              "boundingBox": "140,506,63,17",
+              "text": "transfer"
+            },
+            {
+              "boundingBox": "208,513,27,15",
+              "text": "my"
+            },
+            {
+              "boundingBox": "240,513,49,15",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "296,508,91,15",
+              "text": "investment"
+            },
+            {
+              "boundingBox": "392,506,41,17",
+              "text": "from"
+            },
+            {
+              "boundingBox": "439,513,30,10",
+              "text": "one"
+            },
+            {
+              "boundingBox": "475,513,49,15",
+              "text": "sweep"
+            },
+            {
+              "boundingBox": "529,506,67,22",
+              "text": "product"
+            },
+            {
+              "boundingBox": "602,512,16,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "624,506,67,17",
+              "text": "another."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "211,609,286,21",
+      "lines": [
+        {
+          "boundingBox": "211,609,286,21",
+          "words": [
+            {
+              "boundingBox": "211,609,89,17",
+              "text": "Medallion"
+            },
+            {
+              "boundingBox": "308,609,87,21",
+              "text": "Signature"
+            },
+            {
+              "boundingBox": "402,609,95,17",
+              "text": "Guarantee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "616,605,260,76",
+      "lines": [
+        {
+          "boundingBox": "617,605,134,12",
+          "words": [
+            {
+              "boundingBox": "617,605,49,12",
+              "text": "CLIENT"
+            },
+            {
+              "boundingBox": "670,605,81,12",
+              "text": "SIGNATURE"
+            }
+          ]
+        },
+        {
+          "boundingBox": "616,669,260,12",
+          "words": [
+            {
+              "boundingBox": "616,669,41,12",
+              "text": "JOINT"
+            },
+            {
+              "boundingBox": "661,669,68,12",
+              "text": "ACCOUNT"
+            },
+            {
+              "boundingBox": "734,669,57,12",
+              "text": "HOLDER"
+            },
+            {
+              "boundingBox": "796,669,80,12",
+              "text": "SIGNATURE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1323,605,201,77",
+      "lines": [
+        {
+          "boundingBox": "1323,605,201,14",
+          "words": [
+            {
+              "boundingBox": "1323,605,35,12",
+              "text": "DATE"
+            },
+            {
+              "boundingBox": "1363,605,45,13",
+              "text": "(MUST"
+            },
+            {
+              "boundingBox": "1413,605,17,12",
+              "text": "BE"
+            },
+            {
+              "boundingBox": "1435,605,89,14",
+              "text": "COMPLETED)"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1323,669,201,13",
+          "words": [
+            {
+              "boundingBox": "1323,669,35,12",
+              "text": "DATE"
+            },
+            {
+              "boundingBox": "1363,669,45,13",
+              "text": "(MUST"
+            },
+            {
+              "boundingBox": "1413,669,17,12",
+              "text": "BE"
+            },
+            {
+              "boundingBox": "1435,669,89,13",
+              "text": "COMPLETED)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "617,702,971,49",
+      "lines": [
+        {
+          "boundingBox": "617,702,971,22",
+          "words": [
+            {
+              "boundingBox": "617,703,51,16",
+              "text": "Letter"
+            },
+            {
+              "boundingBox": "674,702,20,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "696,702,146,22",
+              "text": "Acceptance—To"
+            },
+            {
+              "boundingBox": "849,702,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "882,704,42,20",
+              "text": "prior"
+            },
+            {
+              "boundingBox": "930,702,148,17",
+              "text": "custodian/trustee"
+            },
+            {
+              "boundingBox": "1084,702,20,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1107,702,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1140,704,89,15",
+              "text": "retirement"
+            },
+            {
+              "boundingBox": "1235,707,68,12",
+              "text": "account"
+            },
+            {
+              "boundingBox": "1308,702,91,22",
+              "text": "designated"
+            },
+            {
+              "boundingBox": "1405,702,24,17",
+              "text": "for"
+            },
+            {
+              "boundingBox": "1435,702,69,17",
+              "text": "transfer:"
+            },
+            {
+              "boundingBox": "1512,702,51,17",
+              "text": "Please"
+            },
+            {
+              "boundingBox": "1569,702,19,17",
+              "text": "be"
+            }
+          ]
+        },
+        {
+          "boundingBox": "617,728,895,23",
+          "words": [
+            {
+              "boundingBox": "617,728,63,17",
+              "text": "advised"
+            },
+            {
+              "boundingBox": "686,728,34,17",
+              "text": "that"
+            },
+            {
+              "boundingBox": "726,729,68,22",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "800,728,62,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "868,728,51,17",
+              "text": "Smith"
+            },
+            {
+              "boundingBox": "926,729,59,21",
+              "text": "Barney"
+            },
+            {
+              "boundingBox": "991,729,39,16",
+              "text": "LLC"
+            },
+            {
+              "boundingBox": "1036,728,38,17",
+              "text": "does"
+            },
+            {
+              "boundingBox": "1080,728,57,22",
+              "text": "hereby"
+            },
+            {
+              "boundingBox": "1143,734,53,17",
+              "text": "accept"
+            },
+            {
+              "boundingBox": "1203,730,111,20",
+              "text": "appointment"
+            },
+            {
+              "boundingBox": "1320,735,15,10",
+              "text": "as"
+            },
+            {
+              "boundingBox": "1342,735,78,10",
+              "text": "successor"
+            },
+            {
+              "boundingBox": "1425,728,87,17",
+              "text": "custodian."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "617,791,620,72",
+      "lines": [
+        {
+          "boundingBox": "617,791,383,14",
+          "words": [
+            {
+              "boundingBox": "617,791,90,12",
+              "text": "AUTHORIZED"
+            },
+            {
+              "boundingBox": "712,791,80,12",
+              "text": "SIGNATURE"
+            },
+            {
+              "boundingBox": "797,791,156,14",
+              "text": "(OPERATIONS/BRANCH"
+            },
+            {
+              "boundingBox": "958,791,42,14",
+              "text": "TITLE)"
+            }
+          ]
+        },
+        {
+          "boundingBox": "618,849,619,14",
+          "words": [
+            {
+              "boundingBox": "618,849,61,13",
+              "text": "MORGAN"
+            },
+            {
+              "boundingBox": "684,849,61,13",
+              "text": "STANLEY"
+            },
+            {
+              "boundingBox": "750,850,74,12",
+              "text": "FINANCIAL"
+            },
+            {
+              "boundingBox": "828,850,123,13",
+              "text": "ADVISOR/PRIVATE"
+            },
+            {
+              "boundingBox": "955,850,57,12",
+              "text": "WEALTH"
+            },
+            {
+              "boundingBox": "1017,850,61,12",
+              "text": "ADVISOR"
+            },
+            {
+              "boundingBox": "1083,850,57,13",
+              "text": "(PLEASE"
+            },
+            {
+              "boundingBox": "1145,850,42,12",
+              "text": "PRINT"
+            },
+            {
+              "boundingBox": "1192,849,45,14",
+              "text": "NAME)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "1323,791,35,12",
+      "lines": [
+        {
+          "boundingBox": "1323,791,35,12",
+          "words": [
+            {
+              "boundingBox": "1323,791,35,12",
+              "text": "DATE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "106,888,1475,239",
+      "lines": [
+        {
+          "boundingBox": "107,888,1468,20",
+          "words": [
+            {
+              "boundingBox": "107,889,3,8",
+              "text": "I"
+            },
+            {
+              "boundingBox": "117,889,14,14",
+              "text": "If"
+            },
+            {
+              "boundingBox": "135,889,22,15",
+              "text": "the"
+            },
+            {
+              "boundingBox": "163,894,59,10",
+              "text": "account"
+            },
+            {
+              "boundingBox": "228,891,66,17",
+              "text": "receiving"
+            },
+            {
+              "boundingBox": "300,889,23,15",
+              "text": "the"
+            },
+            {
+              "boundingBox": "328,889,50,15",
+              "text": "ACAT"
+            },
+            {
+              "boundingBox": "383,889,45,15",
+              "text": "which"
+            },
+            {
+              "boundingBox": "434,891,11,13",
+              "text": "is"
+            },
+            {
+              "boundingBox": "451,889,79,15",
+              "text": "authorized"
+            },
+            {
+              "boundingBox": "536,888,18,20",
+              "text": "by"
+            },
+            {
+              "boundingBox": "559,889,27,15",
+              "text": "this"
+            },
+            {
+              "boundingBox": "592,889,36,15",
+              "text": "form"
+            },
+            {
+              "boundingBox": "634,891,10,13",
+              "text": "is"
+            },
+            {
+              "boundingBox": "650,895,18,9",
+              "text": "an"
+            },
+            {
+              "boundingBox": "674,890,40,14",
+              "text": "RPIVI"
+            },
+            {
+              "boundingBox": "720,895,16,9",
+              "text": "or"
+            },
+            {
+              "boundingBox": "741,890,30,14",
+              "text": "VIP"
+            },
+            {
+              "boundingBox": "777,894,62,11",
+              "text": "account,"
+            },
+            {
+              "boundingBox": "846,889,27,15",
+              "text": "this"
+            },
+            {
+              "boundingBox": "879,889,36,15",
+              "text": "form"
+            },
+            {
+              "boundingBox": "921,894,37,10",
+              "text": "must"
+            },
+            {
+              "boundingBox": "964,889,17,15",
+              "text": "be"
+            },
+            {
+              "boundingBox": "986,889,48,19",
+              "text": "signed"
+            },
+            {
+              "boundingBox": "1040,888,18,20",
+              "text": "by"
+            },
+            {
+              "boundingBox": "1063,889,23,15",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1091,889,54,15",
+              "text": "Trustee"
+            },
+            {
+              "boundingBox": "1151,889,17,15",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1172,889,23,15",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1200,889,32,19",
+              "text": "plan"
+            },
+            {
+              "boundingBox": "1239,889,44,15",
+              "text": "under"
+            },
+            {
+              "boundingBox": "1288,889,45,15",
+              "text": "which"
+            },
+            {
+              "boundingBox": "1339,888,23,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1368,894,59,10",
+              "text": "account"
+            },
+            {
+              "boundingBox": "1433,891,10,13",
+              "text": "is"
+            },
+            {
+              "boundingBox": "1449,889,36,16",
+              "text": "held,"
+            },
+            {
+              "boundingBox": "1492,889,28,15",
+              "text": "and"
+            },
+            {
+              "boundingBox": "1525,889,22,15",
+              "text": "for"
+            },
+            {
+              "boundingBox": "1552,889,23,15",
+              "text": "the"
+            }
+          ]
+        },
+        {
+          "boundingBox": "116,914,1360,19",
+          "words": [
+            {
+              "boundingBox": "116,920,66,13",
+              "text": "purposes"
+            },
+            {
+              "boundingBox": "188,914,17,14",
+              "text": "of"
+            },
+            {
+              "boundingBox": "209,914,26,14",
+              "text": "this"
+            },
+            {
+              "boundingBox": "241,914,36,14",
+              "text": "form"
+            },
+            {
+              "boundingBox": "283,920,27,13",
+              "text": "any"
+            },
+            {
+              "boundingBox": "315,914,73,15",
+              "text": "references"
+            },
+            {
+              "boundingBox": "394,919,14,10",
+              "text": "to"
+            },
+            {
+              "boundingBox": "415,914,24,17",
+              "text": "\"I,\""
+            },
+            {
+              "boundingBox": "446,914,36,14",
+              "text": "\"me\""
+            },
+            {
+              "boundingBox": "488,920,16,8",
+              "text": "or"
+            },
+            {
+              "boundingBox": "510,914,36,19",
+              "text": "\"my\""
+            },
+            {
+              "boundingBox": "553,914,33,14",
+              "text": "refer"
+            },
+            {
+              "boundingBox": "592,919,14,9",
+              "text": "to"
+            },
+            {
+              "boundingBox": "612,914,34,15",
+              "text": "such"
+            },
+            {
+              "boundingBox": "650,914,55,15",
+              "text": "Trustee"
+            },
+            {
+              "boundingBox": "711,920,13,9",
+              "text": "as"
+            },
+            {
+              "boundingBox": "730,914,33,19",
+              "text": "legal"
+            },
+            {
+              "boundingBox": "769,920,46,8",
+              "text": "owner"
+            },
+            {
+              "boundingBox": "821,914,17,14",
+              "text": "of"
+            },
+            {
+              "boundingBox": "842,914,23,14",
+              "text": "the"
+            },
+            {
+              "boundingBox": "871,919,58,10",
+              "text": "account"
+            },
+            {
+              "boundingBox": "936,915,31,16",
+              "text": "(i.e.,"
+            },
+            {
+              "boundingBox": "974,920,33,8",
+              "text": "even"
+            },
+            {
+              "boundingBox": "1013,914,54,19",
+              "text": "though"
+            },
+            {
+              "boundingBox": "1073,914,31,19",
+              "text": "they"
+            },
+            {
+              "boundingBox": "1110,920,31,13",
+              "text": "may"
+            },
+            {
+              "boundingBox": "1147,919,25,9",
+              "text": "not"
+            },
+            {
+              "boundingBox": "1178,914,17,15",
+              "text": "be"
+            },
+            {
+              "boundingBox": "1201,914,23,14",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1230,914,70,15",
+              "text": "beneficial"
+            },
+            {
+              "boundingBox": "1306,920,46,8",
+              "text": "owner"
+            },
+            {
+              "boundingBox": "1358,914,17,14",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1378,914,24,14",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1407,914,69,17",
+              "text": "account)."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,949,1456,25",
+          "words": [
+            {
+              "boundingBox": "106,950,69,18",
+              "text": "*Direct"
+            },
+            {
+              "boundingBox": "181,949,83,19",
+              "text": "Rollover:"
+            },
+            {
+              "boundingBox": "271,950,37,18",
+              "text": "You"
+            },
+            {
+              "boundingBox": "314,956,27,12",
+              "text": "are"
+            },
+            {
+              "boundingBox": "348,949,108,25",
+              "text": "transferring"
+            },
+            {
+              "boundingBox": "462,955,50,13",
+              "text": "assets"
+            },
+            {
+              "boundingBox": "519,957,16,11",
+              "text": "as"
+            },
+            {
+              "boundingBox": "542,955,38,19",
+              "text": "part"
+            },
+            {
+              "boundingBox": "586,949,22,19",
+              "text": "of"
+            },
+            {
+              "boundingBox": "611,956,22,12",
+              "text": "an"
+            },
+            {
+              "boundingBox": "640,949,66,25",
+              "text": "eligible"
+            },
+            {
+              "boundingBox": "712,949,111,19",
+              "text": "distribution"
+            },
+            {
+              "boundingBox": "830,949,45,19",
+              "text": "from"
+            },
+            {
+              "boundingBox": "882,957,10,11",
+              "text": "a"
+            },
+            {
+              "boundingBox": "898,949,89,24",
+              "text": "Qualified"
+            },
+            {
+              "boundingBox": "993,950,105,18",
+              "text": "Retirement"
+            },
+            {
+              "boundingBox": "1104,949,47,21",
+              "text": "Plan,"
+            },
+            {
+              "boundingBox": "1158,950,44,20",
+              "text": "IRA,"
+            },
+            {
+              "boundingBox": "1209,949,63,22",
+              "text": "403(b)"
+            },
+            {
+              "boundingBox": "1280,956,20,12",
+              "text": "or"
+            },
+            {
+              "boundingBox": "1306,950,120,18",
+              "text": "Government"
+            },
+            {
+              "boundingBox": "1432,949,37,20",
+              "text": "457"
+            },
+            {
+              "boundingBox": "1476,949,42,19",
+              "text": "Plan"
+            },
+            {
+              "boundingBox": "1525,955,19,13",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1551,956,11,12",
+              "text": "a"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,979,1475,25",
+          "words": [
+            {
+              "boundingBox": "106,979,90,24",
+              "text": "Qualified"
+            },
+            {
+              "boundingBox": "203,981,108,17",
+              "text": "Retirement"
+            },
+            {
+              "boundingBox": "318,979,41,19",
+              "text": "Plan"
+            },
+            {
+              "boundingBox": "367,987,20,11",
+              "text": "or"
+            },
+            {
+              "boundingBox": "394,980,40,18",
+              "text": "IRA"
+            },
+            {
+              "boundingBox": "440,979,92,19",
+              "text": "custodied"
+            },
+            {
+              "boundingBox": "538,979,43,19",
+              "text": "with"
+            },
+            {
+              "boundingBox": "588,980,76,24",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "672,979,69,25",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "748,979,57,19",
+              "text": "Smith"
+            },
+            {
+              "boundingBox": "812,981,67,23",
+              "text": "Barney"
+            },
+            {
+              "boundingBox": "885,980,44,18",
+              "text": "LLC"
+            },
+            {
+              "boundingBox": "938,980,92,24",
+              "text": "(\"Morgan"
+            },
+            {
+              "boundingBox": "1038,979,90,25",
+              "text": "Stanley\")."
+            },
+            {
+              "boundingBox": "1136,979,37,19",
+              "text": "The"
+            },
+            {
+              "boundingBox": "1180,985,75,13",
+              "text": "amount"
+            },
+            {
+              "boundingBox": "1262,979,101,19",
+              "text": "transferred"
+            },
+            {
+              "boundingBox": "1369,979,35,19",
+              "text": "will"
+            },
+            {
+              "boundingBox": "1411,979,21,19",
+              "text": "be"
+            },
+            {
+              "boundingBox": "1439,979,80,25",
+              "text": "reported"
+            },
+            {
+              "boundingBox": "1526,985,18,13",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1552,979,29,19",
+              "text": "the"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1010,989,25",
+          "words": [
+            {
+              "boundingBox": "106,1011,35,18",
+              "text": "IRS"
+            },
+            {
+              "boundingBox": "149,1010,23,25",
+              "text": "by"
+            },
+            {
+              "boundingBox": "178,1010,29,19",
+              "text": "the"
+            },
+            {
+              "boundingBox": "214,1010,110,25",
+              "text": "transferring"
+            },
+            {
+              "boundingBox": "330,1010,41,25",
+              "text": "plan"
+            },
+            {
+              "boundingBox": "378,1017,17,12",
+              "text": "as"
+            },
+            {
+              "boundingBox": "402,1018,10,11",
+              "text": "a"
+            },
+            {
+              "boundingBox": "418,1010,112,19",
+              "text": "distribution"
+            },
+            {
+              "boundingBox": "537,1010,35,19",
+              "text": "and"
+            },
+            {
+              "boundingBox": "579,1010,80,25",
+              "text": "reported"
+            },
+            {
+              "boundingBox": "666,1010,23,24",
+              "text": "by"
+            },
+            {
+              "boundingBox": "694,1011,76,24",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "777,1010,69,24",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "852,1017,17,12",
+              "text": "as"
+            },
+            {
+              "boundingBox": "876,1018,10,11",
+              "text": "a"
+            },
+            {
+              "boundingBox": "892,1010,72,19",
+              "text": "rollover"
+            },
+            {
+              "boundingBox": "970,1010,125,19",
+              "text": "contribution."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1040,1034,25",
+          "words": [
+            {
+              "boundingBox": "106,1041,87,24",
+              "text": "Delivery"
+            },
+            {
+              "boundingBox": "198,1042,123,17",
+              "text": "Instructions"
+            },
+            {
+              "boundingBox": "330,1041,35,21",
+              "text": "(All"
+            },
+            {
+              "boundingBox": "372,1041,93,18",
+              "text": "deliveries"
+            },
+            {
+              "boundingBox": "472,1047,50,12",
+              "text": "must"
+            },
+            {
+              "boundingBox": "528,1040,74,19",
+              "text": "include"
+            },
+            {
+              "boundingBox": "610,1041,62,18",
+              "text": "Client"
+            },
+            {
+              "boundingBox": "677,1042,59,17",
+              "text": "Name"
+            },
+            {
+              "boundingBox": "744,1041,37,18",
+              "text": "and"
+            },
+            {
+              "boundingBox": "787,1042,80,23",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "874,1040,73,25",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "952,1042,85,17",
+              "text": "Account"
+            },
+            {
+              "boundingBox": "1042,1040,98,22",
+              "text": "Number)."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1071,1231,25",
+          "words": [
+            {
+              "boundingBox": "106,1072,33,18",
+              "text": "For"
+            },
+            {
+              "boundingBox": "144,1072,73,18",
+              "text": "ACATS"
+            },
+            {
+              "boundingBox": "225,1071,37,19",
+              "text": "and"
+            },
+            {
+              "boundingBox": "268,1072,126,18",
+              "text": "Non-ACATS"
+            },
+            {
+              "boundingBox": "401,1071,145,19",
+              "text": "transfer-related"
+            },
+            {
+              "boundingBox": "552,1073,88,23",
+              "text": "inquiries,"
+            },
+            {
+              "boundingBox": "648,1071,56,25",
+              "text": "please"
+            },
+            {
+              "boundingBox": "711,1071,31,19",
+              "text": "call"
+            },
+            {
+              "boundingBox": "748,1072,76,24",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "831,1071,80,25",
+              "text": "Stanley's"
+            },
+            {
+              "boundingBox": "916,1072,82,18",
+              "text": "Account"
+            },
+            {
+              "boundingBox": "1002,1071,79,19",
+              "text": "Transfer"
+            },
+            {
+              "boundingBox": "1087,1072,75,18",
+              "text": "Services"
+            },
+            {
+              "boundingBox": "1168,1077,18,13",
+              "text": "at"
+            },
+            {
+              "boundingBox": "1192,1071,145,20",
+              "text": "866-231-9849."
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1101,1026,26",
+          "words": [
+            {
+              "boundingBox": "106,1103,33,17",
+              "text": "For"
+            },
+            {
+              "boundingBox": "144,1103,84,23",
+              "text": "Annuity"
+            },
+            {
+              "boundingBox": "234,1101,144,19",
+              "text": "transfer-related"
+            },
+            {
+              "boundingBox": "385,1104,88,22",
+              "text": "inquiries,"
+            },
+            {
+              "boundingBox": "480,1102,56,24",
+              "text": "please"
+            },
+            {
+              "boundingBox": "543,1102,32,18",
+              "text": "call"
+            },
+            {
+              "boundingBox": "581,1103,76,24",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "664,1102,79,24",
+              "text": "Stanley's"
+            },
+            {
+              "boundingBox": "750,1103,93,17",
+              "text": "Insurance"
+            },
+            {
+              "boundingBox": "849,1102,107,24",
+              "text": "Operations"
+            },
+            {
+              "boundingBox": "963,1108,17,12",
+              "text": "at"
+            },
+            {
+              "boundingBox": "987,1102,145,20",
+              "text": "800-490-5412."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "104,1164,591,941",
+      "lines": [
+        {
+          "boundingBox": "105,1164,455,22",
+          "words": [
+            {
+              "boundingBox": "105,1164,26,17",
+              "text": "All"
+            },
+            {
+              "boundingBox": "137,1164,58,17",
+              "text": "checks"
+            },
+            {
+              "boundingBox": "202,1164,33,17",
+              "text": "and"
+            },
+            {
+              "boundingBox": "241,1164,86,17",
+              "text": "dividends"
+            },
+            {
+              "boundingBox": "333,1170,45,11",
+              "text": "must"
+            },
+            {
+              "boundingBox": "384,1164,19,17",
+              "text": "be"
+            },
+            {
+              "boundingBox": "409,1164,48,17",
+              "text": "made"
+            },
+            {
+              "boundingBox": "463,1164,68,22",
+              "text": "payable"
+            },
+            {
+              "boundingBox": "537,1170,23,11",
+              "text": "to:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1191,136,22",
+          "words": [
+            {
+              "boundingBox": "106,1192,68,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "180,1191,62,21",
+              "text": "Stanley"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1218,47,16",
+          "words": [
+            {
+              "boundingBox": "106,1218,47,16",
+              "text": "FBO:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "105,1243,120,17",
+          "words": [
+            {
+              "boundingBox": "105,1244,37,16",
+              "text": "A/C"
+            },
+            {
+              "boundingBox": "148,1243,77,17",
+              "text": "Number:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "104,1270,351,22",
+          "words": [
+            {
+              "boundingBox": "104,1271,45,15",
+              "text": "Attn:"
+            },
+            {
+              "boundingBox": "154,1271,73,15",
+              "text": "Account"
+            },
+            {
+              "boundingBox": "231,1270,70,16",
+              "text": "Transfer"
+            },
+            {
+              "boundingBox": "306,1270,55,16",
+              "text": "Check"
+            },
+            {
+              "boundingBox": "367,1271,88,21",
+              "text": "Processing"
+            }
+          ]
+        },
+        {
+          "boundingBox": "108,1296,325,19",
+          "words": [
+            {
+              "boundingBox": "108,1298,41,16",
+              "text": "1300"
+            },
+            {
+              "boundingBox": "154,1296,68,17",
+              "text": "Thames"
+            },
+            {
+              "boundingBox": "228,1297,53,18",
+              "text": "Street,"
+            },
+            {
+              "boundingBox": "286,1296,60,19",
+              "text": "Wharf,"
+            },
+            {
+              "boundingBox": "352,1296,29,17",
+              "text": "4th"
+            },
+            {
+              "boundingBox": "388,1296,45,17",
+              "text": "Floor"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1323,190,18",
+          "words": [
+            {
+              "boundingBox": "106,1323,88,18",
+              "text": "Baltimore,"
+            },
+            {
+              "boundingBox": "201,1323,36,16",
+              "text": "MD"
+            },
+            {
+              "boundingBox": "243,1324,53,16",
+              "text": "21231"
+            }
+          ]
+        },
+        {
+          "boundingBox": "107,1354,588,23",
+          "words": [
+            {
+              "boundingBox": "107,1355,24,16",
+              "text": "Or"
+            },
+            {
+              "boundingBox": "137,1356,47,15",
+              "text": "remit"
+            },
+            {
+              "boundingBox": "190,1360,78,16",
+              "text": "payment"
+            },
+            {
+              "boundingBox": "274,1355,108,16",
+              "text": "DIRECTLY"
+            },
+            {
+              "boundingBox": "386,1360,17,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "410,1354,62,17",
+              "text": "branch"
+            },
+            {
+              "boundingBox": "478,1360,17,11",
+              "text": "at"
+            },
+            {
+              "boundingBox": "500,1354,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "533,1354,86,23",
+              "text": "following"
+            },
+            {
+              "boundingBox": "625,1354,70,17",
+              "text": "address:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1381,136,22",
+          "words": [
+            {
+              "boundingBox": "106,1382,68,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "180,1381,62,22",
+              "text": "Stanley"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1564,217,22",
+          "words": [
+            {
+              "boundingBox": "106,1565,46,16",
+              "text": "DTC"
+            },
+            {
+              "boundingBox": "157,1564,69,22",
+              "text": "Eligible"
+            },
+            {
+              "boundingBox": "232,1565,91,16",
+              "text": "Securities:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1591,251,22",
+          "words": [
+            {
+              "boundingBox": "106,1591,46,16",
+              "text": "DTC"
+            },
+            {
+              "boundingBox": "158,1591,73,22",
+              "text": "Clearing"
+            },
+            {
+              "boundingBox": "236,1591,73,16",
+              "text": "Number"
+            },
+            {
+              "boundingBox": "314,1592,43,16",
+              "text": "0015"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1618,42,16",
+          "words": [
+            {
+              "boundingBox": "106,1618,42,16",
+              "text": "FBO"
+            }
+          ]
+        },
+        {
+          "boundingBox": "105,1643,120,17",
+          "words": [
+            {
+              "boundingBox": "105,1644,37,16",
+              "text": "A/C"
+            },
+            {
+              "boundingBox": "148,1643,77,17",
+              "text": "Number:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1675,229,17",
+          "words": [
+            {
+              "boundingBox": "106,1676,74,16",
+              "text": "Phvsical"
+            },
+            {
+              "boundingBox": "186,1675,50,17",
+              "text": "Stock"
+            },
+            {
+              "boundingBox": "242,1675,93,17",
+              "text": "Deliveries:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1702,135,22",
+          "words": [
+            {
+              "boundingBox": "106,1702,68,22",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "180,1702,61,21",
+              "text": "Stanley"
+            }
+          ]
+        },
+        {
+          "boundingBox": "108,1728,249,19",
+          "words": [
+            {
+              "boundingBox": "108,1730,6,14",
+              "text": "I"
+            },
+            {
+              "boundingBox": "122,1729,41,16",
+              "text": "New"
+            },
+            {
+              "boundingBox": "166,1728,41,16",
+              "text": "York"
+            },
+            {
+              "boundingBox": "212,1728,47,19",
+              "text": "Plaza,"
+            },
+            {
+              "boundingBox": "266,1728,40,17",
+              "text": "39th"
+            },
+            {
+              "boundingBox": "312,1728,45,17",
+              "text": "Floor"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1754,185,19",
+          "words": [
+            {
+              "boundingBox": "106,1755,40,16",
+              "text": "New"
+            },
+            {
+              "boundingBox": "150,1754,44,19",
+              "text": "York,"
+            },
+            {
+              "boundingBox": "201,1755,30,16",
+              "text": "NY"
+            },
+            {
+              "boundingBox": "238,1754,53,17",
+              "text": "10004"
+            }
+          ]
+        },
+        {
+          "boundingBox": "107,1786,212,17",
+          "words": [
+            {
+              "boundingBox": "107,1787,41,16",
+              "text": "Cost"
+            },
+            {
+              "boundingBox": "153,1787,44,16",
+              "text": "Basis"
+            },
+            {
+              "boundingBox": "204,1786,115,17",
+              "text": "Information:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1813,319,22",
+          "words": [
+            {
+              "boundingBox": "106,1814,68,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "180,1813,62,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "245,1813,61,16",
+              "text": "Wealth"
+            },
+            {
+              "boundingBox": "312,1814,113,21",
+              "text": "Management"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1839,421,21",
+          "words": [
+            {
+              "boundingBox": "106,1840,32,16",
+              "text": "680"
+            },
+            {
+              "boundingBox": "143,1840,43,16",
+              "text": "West"
+            },
+            {
+              "boundingBox": "193,1841,53,15",
+              "text": "10000"
+            },
+            {
+              "boundingBox": "252,1839,55,19",
+              "text": "South,"
+            },
+            {
+              "boundingBox": "314,1839,50,17",
+              "text": "South"
+            },
+            {
+              "boundingBox": "368,1839,62,21",
+              "text": "Jordan,"
+            },
+            {
+              "boundingBox": "437,1840,31,16",
+              "text": "UT"
+            },
+            {
+              "boundingBox": "474,1839,53,18",
+              "text": "84095"
+            }
+          ]
+        },
+        {
+          "boundingBox": "105,1866,541,22",
+          "words": [
+            {
+              "boundingBox": "105,1866,44,16",
+              "text": "Attn:"
+            },
+            {
+              "boundingBox": "156,1866,57,16",
+              "text": "GWM"
+            },
+            {
+              "boundingBox": "219,1866,95,22",
+              "text": "Operations"
+            },
+            {
+              "boundingBox": "320,1866,42,16",
+              "text": "Gain"
+            },
+            {
+              "boundingBox": "368,1867,17,15",
+              "text": "&"
+            },
+            {
+              "boundingBox": "391,1866,97,16",
+              "text": "Loss/CBRS"
+            },
+            {
+              "boundingBox": "495,1866,86,16",
+              "text": "Statement"
+            },
+            {
+              "boundingBox": "586,1866,60,16",
+              "text": "Service"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1892,390,22",
+          "words": [
+            {
+              "boundingBox": "106,1893,29,15",
+              "text": "Fax"
+            },
+            {
+              "boundingBox": "140,1892,77,16",
+              "text": "Number:"
+            },
+            {
+              "boundingBox": "224,1892,124,18",
+              "text": "801-365-7259"
+            },
+            {
+              "boundingBox": "355,1892,36,20",
+              "text": "(Fax"
+            },
+            {
+              "boundingBox": "396,1894,12,14",
+              "text": "is"
+            },
+            {
+              "boundingBox": "414,1892,82,22",
+              "text": "preferred)"
+            }
+          ]
+        },
+        {
+          "boundingBox": "106,1991,487,18",
+          "words": [
+            {
+              "boundingBox": "106,1991,15,15",
+              "text": "0"
+            },
+            {
+              "boundingBox": "128,1991,46,15",
+              "text": "2016"
+            },
+            {
+              "boundingBox": "182,1991,59,18",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "248,1991,60,18",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "315,1991,46,15",
+              "text": "Smith"
+            },
+            {
+              "boundingBox": "370,1991,56,18",
+              "text": "Barney"
+            },
+            {
+              "boundingBox": "433,1991,35,15",
+              "text": "LLC."
+            },
+            {
+              "boundingBox": "477,1991,67,15",
+              "text": "Member"
+            },
+            {
+              "boundingBox": "549,1991,44,15",
+              "text": "SIPC."
+            }
+          ]
+        },
+        {
+          "boundingBox": "105,2045,401,60",
+          "words": [
+            {
+              "boundingBox": "105,2046,192,59",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "310,2045,196,60",
+              "text": "Stanley"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "105,2133,85,18",
+      "lines": [
+        {
+          "boundingBox": "105,2133,85,18",
+          "words": [
+            {
+              "boundingBox": "105,2133,85,18",
+              "text": "ATSATFF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "362,2134,45,17",
+      "lines": [
+        {
+          "boundingBox": "362,2134,45,17",
+          "words": [
+            {
+              "boundingBox": "362,2134,45,17",
+              "text": "BWF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "828,1164,766,988",
+      "lines": [
+        {
+          "boundingBox": "830,1164,253,17",
+          "words": [
+            {
+              "boundingBox": "830,1164,32,17",
+              "text": "Fed"
+            },
+            {
+              "boundingBox": "868,1164,47,17",
+              "text": "Fund"
+            },
+            {
+              "boundingBox": "938,1165,25,16",
+              "text": "'ire"
+            },
+            {
+              "boundingBox": "969,1165,114,16",
+              "text": "Instructions:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1190,229,18",
+          "words": [
+            {
+              "boundingBox": "830,1191,41,16",
+              "text": "ABA"
+            },
+            {
+              "boundingBox": "877,1190,76,17",
+              "text": "Number:"
+            },
+            {
+              "boundingBox": "960,1192,99,16",
+              "text": "021000089"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1216,226,20",
+          "words": [
+            {
+              "boundingBox": "830,1217,48,16",
+              "text": "Bank:"
+            },
+            {
+              "boundingBox": "885,1216,81,20",
+              "text": "Citibank,"
+            },
+            {
+              "boundingBox": "972,1218,40,15",
+              "text": "New"
+            },
+            {
+              "boundingBox": "1016,1217,40,16",
+              "text": "York"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1243,423,22",
+          "words": [
+            {
+              "boundingBox": "831,1244,28,16",
+              "text": "For"
+            },
+            {
+              "boundingBox": "865,1243,61,17",
+              "text": "Benefit"
+            },
+            {
+              "boundingBox": "931,1243,20,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "953,1244,68,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "1027,1243,62,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "1094,1243,51,17",
+              "text": "Smith"
+            },
+            {
+              "boundingBox": "1151,1244,59,21",
+              "text": "Barney"
+            },
+            {
+              "boundingBox": "1216,1244,38,16",
+              "text": "LLC"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1269,271,22",
+          "words": [
+            {
+              "boundingBox": "830,1269,96,22",
+              "text": "Beneficiary"
+            },
+            {
+              "boundingBox": "930,1270,77,16",
+              "text": "Account:"
+            },
+            {
+              "boundingBox": "1013,1270,88,17",
+              "text": "40611172"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1296,511,20",
+          "words": [
+            {
+              "boundingBox": "830,1297,30,16",
+              "text": "For"
+            },
+            {
+              "boundingBox": "865,1296,64,17",
+              "text": "Further"
+            },
+            {
+              "boundingBox": "935,1296,54,17",
+              "text": "Credit"
+            },
+            {
+              "boundingBox": "993,1296,27,17",
+              "text": "To:"
+            },
+            {
+              "boundingBox": "1028,1296,45,20",
+              "text": "(A/C"
+            },
+            {
+              "boundingBox": "1079,1296,73,17",
+              "text": "Number"
+            },
+            {
+              "boundingBox": "1157,1296,32,17",
+              "text": "and"
+            },
+            {
+              "boundingBox": "1194,1297,85,16",
+              "text": "Customer"
+            },
+            {
+              "boundingBox": "1284,1296,57,20",
+              "text": "Name)"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1329,78,21",
+          "words": [
+            {
+              "boundingBox": "831,1329,78,21",
+              "text": "Options:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1354,168,18",
+          "words": [
+            {
+              "boundingBox": "831,1355,47,16",
+              "text": "OCC"
+            },
+            {
+              "boundingBox": "884,1354,76,17",
+              "text": "Number:"
+            },
+            {
+              "boundingBox": "967,1356,32,16",
+              "text": "015"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1381,255,17",
+          "words": [
+            {
+              "boundingBox": "830,1381,31,16",
+              "text": "Tax"
+            },
+            {
+              "boundingBox": "866,1382,24,15",
+              "text": "ID"
+            },
+            {
+              "boundingBox": "896,1381,77,16",
+              "text": "Number:"
+            },
+            {
+              "boundingBox": "979,1381,106,17",
+              "text": "26-4310632"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1413,228,22",
+          "words": [
+            {
+              "boundingBox": "831,1413,49,22",
+              "text": "Open"
+            },
+            {
+              "boundingBox": "886,1413,36,16",
+              "text": "End"
+            },
+            {
+              "boundingBox": "928,1413,66,16",
+              "text": "Mutual"
+            },
+            {
+              "boundingBox": "1000,1413,59,16",
+              "text": "Funds:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1439,420,22",
+          "words": [
+            {
+              "boundingBox": "830,1440,92,21",
+              "text": "Re-register"
+            },
+            {
+              "boundingBox": "927,1439,19,17",
+              "text": "all"
+            },
+            {
+              "boundingBox": "952,1439,28,17",
+              "text": "full"
+            },
+            {
+              "boundingBox": "986,1439,31,17",
+              "text": "and"
+            },
+            {
+              "boundingBox": "1023,1439,80,17",
+              "text": "fractional"
+            },
+            {
+              "boundingBox": "1109,1439,50,17",
+              "text": "shares"
+            },
+            {
+              "boundingBox": "1165,1446,15,10",
+              "text": "as"
+            },
+            {
+              "boundingBox": "1186,1439,64,17",
+              "text": "follows:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1468,515,22",
+          "words": [
+            {
+              "boundingBox": "831,1468,50,17",
+              "text": "Please"
+            },
+            {
+              "boundingBox": "887,1468,64,17",
+              "text": "transfer"
+            },
+            {
+              "boundingBox": "957,1468,42,17",
+              "text": "these"
+            },
+            {
+              "boundingBox": "1004,1468,50,17",
+              "text": "shares"
+            },
+            {
+              "boundingBox": "1060,1474,17,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1083,1475,8,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "1096,1468,128,22",
+              "text": "pre-established"
+            },
+            {
+              "boundingBox": "1229,1468,40,17",
+              "text": "fund"
+            },
+            {
+              "boundingBox": "1274,1474,72,11",
+              "text": "account."
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1494,735,23",
+          "words": [
+            {
+              "boundingBox": "830,1495,34,16",
+              "text": "The"
+            },
+            {
+              "boundingBox": "870,1500,67,11",
+              "text": "account"
+            },
+            {
+              "boundingBox": "943,1494,67,17",
+              "text": "number"
+            },
+            {
+              "boundingBox": "1016,1500,16,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1038,1494,76,17",
+              "text": "reference"
+            },
+            {
+              "boundingBox": "1120,1495,24,16",
+              "text": "for"
+            },
+            {
+              "boundingBox": "1149,1495,65,16",
+              "text": "transfer"
+            },
+            {
+              "boundingBox": "1219,1497,12,14",
+              "text": "is"
+            },
+            {
+              "boundingBox": "1237,1495,26,16",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1269,1496,67,21",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "1342,1494,62,23",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "1409,1494,84,23",
+              "text": "brokerage"
+            },
+            {
+              "boundingBox": "1498,1500,67,11",
+              "text": "account"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1521,489,17",
+          "words": [
+            {
+              "boundingBox": "830,1521,68,17",
+              "text": "number"
+            },
+            {
+              "boundingBox": "903,1521,41,17",
+              "text": "from"
+            },
+            {
+              "boundingBox": "950,1521,26,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "982,1521,43,17",
+              "text": "front"
+            },
+            {
+              "boundingBox": "1030,1521,20,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "1052,1521,27,17",
+              "text": "the"
+            },
+            {
+              "boundingBox": "1084,1521,42,17",
+              "text": "form"
+            },
+            {
+              "boundingBox": "1131,1521,45,17",
+              "text": "listed"
+            },
+            {
+              "boundingBox": "1182,1521,50,17",
+              "text": "under"
+            },
+            {
+              "boundingBox": "1237,1523,59,15",
+              "text": "section"
+            },
+            {
+              "boundingBox": "1302,1522,17,16",
+              "text": "B."
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1550,655,22",
+          "words": [
+            {
+              "boundingBox": "830,1550,16,16",
+              "text": "If"
+            },
+            {
+              "boundingBox": "849,1557,9,10",
+              "text": "a"
+            },
+            {
+              "boundingBox": "863,1550,40,17",
+              "text": "fund"
+            },
+            {
+              "boundingBox": "909,1556,67,11",
+              "text": "account"
+            },
+            {
+              "boundingBox": "981,1552,12,15",
+              "text": "is"
+            },
+            {
+              "boundingBox": "999,1555,29,12",
+              "text": "not"
+            },
+            {
+              "boundingBox": "1033,1550,97,19",
+              "text": "established,"
+            },
+            {
+              "boundingBox": "1136,1550,51,22",
+              "text": "please"
+            },
+            {
+              "boundingBox": "1192,1556,63,11",
+              "text": "contact"
+            },
+            {
+              "boundingBox": "1259,1551,73,16",
+              "text": "Account"
+            },
+            {
+              "boundingBox": "1336,1550,76,17",
+              "text": "Transfers"
+            },
+            {
+              "boundingBox": "1418,1551,67,16",
+              "text": "Services"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1576,240,22",
+          "words": [
+            {
+              "boundingBox": "830,1582,16,11",
+              "text": "at"
+            },
+            {
+              "boundingBox": "852,1577,123,17",
+              "text": "866-231-9849"
+            },
+            {
+              "boundingBox": "981,1578,57,20",
+              "text": "option"
+            },
+            {
+              "boundingBox": "1043,1576,27,17",
+              "text": "#4."
+            }
+          ]
+        },
+        {
+          "boundingBox": "828,1605,753,23",
+          "words": [
+            {
+              "boundingBox": "828,1606,35,16",
+              "text": "Also"
+            },
+            {
+              "boundingBox": "869,1605,55,23",
+              "text": "change"
+            },
+            {
+              "boundingBox": "928,1605,120,17",
+              "text": "Broker/Dealer"
+            },
+            {
+              "boundingBox": "1052,1605,98,23",
+              "text": "information"
+            },
+            {
+              "boundingBox": "1156,1610,14,12",
+              "text": "to"
+            },
+            {
+              "boundingBox": "1175,1606,65,22",
+              "text": "Morgan"
+            },
+            {
+              "boundingBox": "1246,1606,59,22",
+              "text": "Stanley"
+            },
+            {
+              "boundingBox": "1310,1605,48,17",
+              "text": "Smith"
+            },
+            {
+              "boundingBox": "1363,1607,58,21",
+              "text": "Barney"
+            },
+            {
+              "boundingBox": "1425,1606,42,16",
+              "text": "LLC."
+            },
+            {
+              "boundingBox": "1474,1605,55,17",
+              "text": "Broker"
+            },
+            {
+              "boundingBox": "1534,1607,47,16",
+              "text": "0015."
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1637,687,23",
+          "words": [
+            {
+              "boundingBox": "830,1638,32,16",
+              "text": "Fed"
+            },
+            {
+              "boundingBox": "868,1638,49,16",
+              "text": "Book"
+            },
+            {
+              "boundingBox": "921,1639,52,21",
+              "text": "Entry"
+            },
+            {
+              "boundingBox": "978,1638,89,16",
+              "text": "Deliveries"
+            },
+            {
+              "boundingBox": "1073,1637,26,17",
+              "text": "for"
+            },
+            {
+              "boundingBox": "1105,1638,111,16",
+              "text": "Government"
+            },
+            {
+              "boundingBox": "1222,1638,33,16",
+              "text": "and"
+            },
+            {
+              "boundingBox": "1260,1638,160,22",
+              "text": "Mortgage-Backed"
+            },
+            {
+              "boundingBox": "1426,1638,91,16",
+              "text": "Securities:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "829,1664,229,17",
+          "words": [
+            {
+              "boundingBox": "829,1665,42,15",
+              "text": "ABA"
+            },
+            {
+              "boundingBox": "876,1664,77,17",
+              "text": "Number:"
+            },
+            {
+              "boundingBox": "960,1665,98,16",
+              "text": "021000018"
+            }
+          ]
+        },
+        {
+          "boundingBox": "831,1690,198,17",
+          "words": [
+            {
+              "boundingBox": "831,1691,28,16",
+              "text": "BK"
+            },
+            {
+              "boundingBox": "864,1690,19,17",
+              "text": "of"
+            },
+            {
+              "boundingBox": "886,1690,53,17",
+              "text": "NYC/"
+            },
+            {
+              "boundingBox": "942,1691,87,16",
+              "text": "MSACAT"
+            }
+          ]
+        },
+        {
+          "boundingBox": "829,1716,120,17",
+          "words": [
+            {
+              "boundingBox": "829,1717,38,16",
+              "text": "A/C"
+            },
+            {
+              "boundingBox": "872,1716,77,17",
+              "text": "Number:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1749,260,22",
+          "words": [
+            {
+              "boundingBox": "830,1749,72,16",
+              "text": "Limited"
+            },
+            {
+              "boundingBox": "907,1749,113,22",
+              "text": "Partnerships"
+            },
+            {
+              "boundingBox": "1026,1749,57,16",
+              "text": "Public"
+            },
+            {
+              "boundingBox": "1087,1755,3,10",
+              "text": ":"
+            }
+          ]
+        },
+        {
+          "boundingBox": "829,1775,446,22",
+          "words": [
+            {
+              "boundingBox": "829,1776,44,16",
+              "text": "Attn:"
+            },
+            {
+              "boundingBox": "879,1776,45,16",
+              "text": "Asset"
+            },
+            {
+              "boundingBox": "927,1775,70,17",
+              "text": "Transfer"
+            },
+            {
+              "boundingBox": "1002,1776,67,16",
+              "text": "Services"
+            },
+            {
+              "boundingBox": "1098,1775,67,17",
+              "text": "Limited"
+            },
+            {
+              "boundingBox": "1171,1775,104,22",
+              "text": "Partnerships"
+            }
+          ]
+        },
+        {
+          "boundingBox": "882,1801,259,19",
+          "words": [
+            {
+              "boundingBox": "882,1803,41,16",
+              "text": "1300"
+            },
+            {
+              "boundingBox": "928,1801,68,17",
+              "text": "Thames"
+            },
+            {
+              "boundingBox": "1002,1802,53,18",
+              "text": "Street,"
+            },
+            {
+              "boundingBox": "1061,1801,29,17",
+              "text": "6th"
+            },
+            {
+              "boundingBox": "1096,1801,45,17",
+              "text": "Floor"
+            }
+          ]
+        },
+        {
+          "boundingBox": "880,1828,190,19",
+          "words": [
+            {
+              "boundingBox": "880,1828,88,19",
+              "text": "Baltimore,"
+            },
+            {
+              "boundingBox": "975,1829,36,15",
+              "text": "MD"
+            },
+            {
+              "boundingBox": "1017,1829,53,16",
+              "text": "21231"
+            }
+          ]
+        },
+        {
+          "boundingBox": "830,1860,243,16",
+          "words": [
+            {
+              "boundingBox": "830,1860,131,16",
+              "text": "Public/Private"
+            },
+            {
+              "boundingBox": "966,1860,107,16",
+              "text": "Placements:"
+            }
+          ]
+        },
+        {
+          "boundingBox": "829,1886,412,22",
+          "words": [
+            {
+              "boundingBox": "829,1887,44,16",
+              "text": "Attn:"
+            },
+            {
+              "boundingBox": "880,1886,119,17",
+              "text": "Public/Private"
+            },
+            {
+              "boundingBox": "1005,1886,89,17",
+              "text": "Placement"
+            },
+            {
+              "boundingBox": "1099,1887,89,21",
+              "text": "Processing"
+            },
+            {
+              "boundingBox": "1193,1887,48,21",
+              "text": "Dept."
+            }
+          ]
+        },
+        {
+          "boundingBox": "882,1912,259,19",
+          "words": [
+            {
+              "boundingBox": "882,1914,41,16",
+              "text": "1300"
+            },
+            {
+              "boundingBox": "928,1912,68,17",
+              "text": "Thames"
+            },
+            {
+              "boundingBox": "1002,1913,53,18",
+              "text": "Street,"
+            },
+            {
+              "boundingBox": "1061,1912,29,17",
+              "text": "6th"
+            },
+            {
+              "boundingBox": "1096,1912,45,17",
+              "text": "Floor"
+            }
+          ]
+        },
+        {
+          "boundingBox": "880,1939,190,19",
+          "words": [
+            {
+              "boundingBox": "880,1939,88,19",
+              "text": "Baltimore,"
+            },
+            {
+              "boundingBox": "975,1940,36,15",
+              "text": "MD"
+            },
+            {
+              "boundingBox": "1017,1940,53,16",
+              "text": "21231"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1047,2034,546,18",
+          "words": [
+            {
+              "boundingBox": "1047,2035,99,17",
+              "text": "ACCOUNT"
+            },
+            {
+              "boundingBox": "1152,2034,107,18",
+              "text": "TRANSFER"
+            },
+            {
+              "boundingBox": "1267,2035,56,17",
+              "text": "FORM"
+            },
+            {
+              "boundingBox": "1332,2034,100,18",
+              "text": "CLEARING"
+            },
+            {
+              "boundingBox": "1442,2034,94,18",
+              "text": "NUMBER:"
+            },
+            {
+              "boundingBox": "1544,2034,49,18",
+              "text": "0015"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1404,2058,190,19",
+          "words": [
+            {
+              "boundingBox": "1404,2058,99,19",
+              "text": "(08/2016)"
+            },
+            {
+              "boundingBox": "1510,2058,84,17",
+              "text": "ATSATFF"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1490,2115,103,14",
+          "words": [
+            {
+              "boundingBox": "1490,2115,43,14",
+              "text": "PAGE"
+            },
+            {
+              "boundingBox": "1539,2115,10,14",
+              "text": "2"
+            },
+            {
+              "boundingBox": "1556,2115,22,14",
+              "text": "OF"
+            },
+            {
+              "boundingBox": "1584,2115,9,14",
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "boundingBox": "1409,2136,185,16",
+          "words": [
+            {
+              "boundingBox": "1409,2136,22,15",
+              "text": "NY"
+            },
+            {
+              "boundingBox": "1437,2136,20,15",
+              "text": "CS"
+            },
+            {
+              "boundingBox": "1464,2136,75,15",
+              "text": "8575959"
+            },
+            {
+              "boundingBox": "1547,2136,47,16",
+              "text": "08/16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

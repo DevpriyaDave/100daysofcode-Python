@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+ <head>
+ <title>Playing YouTube video on HTML5 canvas</title>
+ <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width" />
+ <style type="text/css">
+body {
+        margin: 0px;
+        padding: 0px;
+      }
+ </style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+ </head>
+ <body>
+<!--<img id="scream" src="static/acat.jpg" alt="The Scream">-->
+
+<p>Canvas:</p>
+<canvas id="canvas" >
+Your browser does not support the HTML5 canvas tag.</canvas>
+<script>
+
+var canvas = document.getElementById('canvas');
+var ctx = canvas.getContext('2d');
+
+var image = new Image();
+image.onload = drawImageActualSize;
+
+
+image.src = 'static/acat.jpg';
+
+function drawImageActualSize() {
+
+  canvas.width = this.naturalWidth;
+  canvas.height = this.naturalHeight;
+
+  ctx.drawImage(this, 0, 0);
+
+
+  ctx.drawImage(this, 0, 0, this.width, this.height);
+  ctx.beginPath();
+  ctx.rect(980,149,91,16);
+  ctx.fillStyle = 'yellow';
+  ctx.fill();
+  ctx.lineWidth = 7;
+  ctx.strokeStyle = 'black';
+  ctx.stroke();
+}
+<!--window.onload = function() {-->
+  <!--var c=document.getElementById("myCanvas");-->
+  <!--var ctx=c.getContext("2d");-->
+  <!--var img=document.getElementById("scream");-->
+  <!--ctx.drawImage(img,170,220);-->
+  <!--var canvas = document.getElementById('myCanvas');-->
+  <!--var context = canvas.getContext('2d');-->
+
+  <!--context.beginPath();-->
+  <!--context.rect(188, 50, 200, 100);-->
+  <!--context.fillStyle = 'yellow';-->
+  <!--context.fill();-->
+  <!--context.lineWidth = 7;-->
+  <!--context.strokeStyle = 'black';-->
+  <!--context.stroke();-->
+
+    <!--Branch No.      980,149,91,16-->
+<!--2                                        Account No.    1137,150,100,15-->
+<!--3                                          0 99 46 2    1144,185,218,18-->
+<!--4                                         FA/PWA NO.    1416,150,101,16-->
+<!--5                                                012     1423,185,94,18-->
+<!--}-->
+</script>
+ </body>
+ </html>
