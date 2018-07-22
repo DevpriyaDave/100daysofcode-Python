@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../003/.idea/003.iml" filepath="$PROJECT_DIR$/../003/.idea/003.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ocr.iml" filepath="$PROJECT_DIR$/.idea/ocr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../travel-booking/.idea/travel-booking.iml" filepath="$PROJECT_DIR$/../../travel-booking/.idea/travel-booking.iml" />
     </modules>
   </component>
 </project>
